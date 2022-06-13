@@ -65,7 +65,7 @@ resources:
 
 Il nuovo FSE è l’ecosistema digitale che realizza servizi evoluti basati sul dato atomico. 
 A tale fine:
-- raccoglie i dati e documenti prodotti dalle strutture sanitarie pubbliche e private accreditate e non accreditate 
+- raccoglie i dati e documenti prodotti dalle strutture sanitarie pubbliche e private accreditate e non accreditate
 - consente ai cittadini di accedere ai propri dati e documenti 
 - abilita i professionisti sanitari ad accedere ai dati e documenti dei cittadini
 - mette a disposizione degli Enti di ricerca una fonte dati utile per le finalità di ricerca in ambito medico e biomedico
